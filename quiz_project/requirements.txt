@@ -1,0 +1,5 @@
+Django~=4.0.3
+djangorestframework~=3.13.1
+waitress~=2.1.1
+pipenv~=2022.1.8
+
