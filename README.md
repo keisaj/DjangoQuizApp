@@ -8,7 +8,6 @@
 * [Setup](#setup)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
-<!-- * [License](#license) -->
 
 
 ## General Information
@@ -32,7 +31,6 @@
 ## Setup
 To run server simply run Docker image
 
-`write-your-code-here`
 
 
 ## Project Status
